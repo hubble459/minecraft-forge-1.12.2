@@ -1,0 +1,5 @@
+*
+!/mods/*.jar
+!/config/**.jar
+!.gitignore
+!.gitattributes
