@@ -1,5 +1,7 @@
 *
-!/mods/*.jar
-!/config/**.jar
+!mods/*
+!mods
+!config/**
+!config
 !.gitignore
 !.gitattributes
