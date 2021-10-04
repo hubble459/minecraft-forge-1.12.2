@@ -1,5 +1,7 @@
 *
 !mods/*
 !mods
+!mods-old
 !.gitignore
 !.gitattributes
+mods/Pixelmon-1.12.2-8.3.0-universal.jar
