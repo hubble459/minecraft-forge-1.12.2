@@ -1,0 +1,30 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = background
+}
+
+customization {
+  path = config/fancymenu/pixelmon_resources/reforged-bg.png
+  action = texturizebackground
+}
+
+customization {
+  action = addwebtexture
+  url = https://download.nodecdn.net/containers/reforged/gui/background/reforged-bg.png
+  x = 0
+  y = 0
+  width = %guiwidth%
+  height = %guiheight%
+}
+customization {
+  path = config/fancymenu/pixelmon_resources/sidebar-slice_full.png
+  orientation = top-left
+  x = 0
+  width = 240
+  action = addtexture
+  y = 0
+  height = %guiheight%
+}
+

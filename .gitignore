@@ -1,6 +1,9 @@
 *
 !mods/*
 !mods
+!config
+!config/*
+!config/**/*
 !mods-old
 !.gitignore
 !.gitattributes
